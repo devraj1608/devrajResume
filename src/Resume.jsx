@@ -147,7 +147,7 @@ function Resume() {
                     <h2 className="text-lg font-bold text-gray-900 uppercase tracking-widest">Summary</h2>
                 </div>
                     <p className="text-gray-700 leading-relaxed text-[13px] text-justify">
-                    Computer Science Engineering student currently in the Final Year (7th Semester) of B.Tech at IMS Engineering College, affiliated with AKTU University (Expected Graduation: 2026). Strong foundation in programming, problem-solving, and full-stack software development, with hands-on experience in building real-world projects.
+                    Computer Science Engineering student currently in the Final Year (8th Semester) of B.Tech at IMS Engineering College, affiliated with AKTU University (Expected Graduation: 2026). Strong foundation in programming, problem-solving, and full-stack software development, with hands-on experience in building real-world projects.
                     </p>
             </motion.section>
 
