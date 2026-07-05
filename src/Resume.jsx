@@ -147,7 +147,7 @@ function Resume() {
                     <h2 className="text-lg font-bold text-gray-900 uppercase tracking-widest">Summary</h2>
                 </div>
                     <p className="text-gray-700 leading-relaxed text-[13px] text-justify">
-                    Computer Science Engineering student currently in the Final Year (8th Semester) of B.Tech at IMS Engineering College, affiliated with AKTU University (Expected Graduation: 2026). Strong foundation in programming, problem-solving, and full-stack software development, with hands-on experience in building real-world projects.
+                    Computer Science Engineering graduate (B.Tech 2026) from IMS Engineering College, currently working as an Associate Software Engineer (ASE) at Cavisson Systems. Strong foundation in programming, problem-solving, and MERN full-stack development, with hands-on experience in DevOps and building real-world projects.
                     </p>
             </motion.section>
 
@@ -279,8 +279,9 @@ function Resume() {
                     {[
                         { label: "Languages", val: "Python, C++, Java, JavaScript" },
                         { label: "Frontend", val: "React.js, HTML5, CSS3, Tailwind" },
-                        { label: "Backend", val: "Node.js, Express, REST APIs" },
+                        { label: "Backend", val: "Node.js, Express, REST APIs, MERN Fullstack" },
                         { label: "Databases", val: "MySQL, MongoDB" },
+                        { label: "DevOps", val: "Docker, Kubernetes, Ansible, Jenkins" },
                         { label: "Tools", val: "Git, GitHub, VS Code" }
                     ].map((skill, i) => (
                         <motion.div key={i} whileHover={{ x: 5 }} className="transition-transform">
